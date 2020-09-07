@@ -1,0 +1,4 @@
+https://hackernoon.com/5-cool-python-project-ideas-for-inspiration-sr44367v
+https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/
+https://docs.python.org/3/library/argparse.html#argparse.ArgumentParser.parse_args
+https://data-flair.training/blogs/python-project-driver-drowsiness-detection-system/
