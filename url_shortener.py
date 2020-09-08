@@ -17,7 +17,7 @@ def make_shorten(url):
         return response.read().decode('utf-8')
 
 def main():
-    for shortyurl in map(make_shorten,sys.argv[1:]):
+    for shortyurl in map(make_shorten, sys.argv[1:]):
         print(shortyurl)
 
 if __name__ == '__main__':
